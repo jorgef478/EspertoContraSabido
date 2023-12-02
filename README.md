@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Esperto Contra Sabido, quem leva a melhor?.md</h1>
+<h1 align="center">:file_cabinet: Esperto Contra Sabido, quem leva a melhor?</h1>
 
 ## :memo: Descrição
 No episódio 133 de Pica-Pau (Esperto contra sabido) nós vemos o protagonista fazer uma divisão de comida com seu amigo Raposinha. O que Pica-Pau não esperava era a forma que seria feita essa divisão.
