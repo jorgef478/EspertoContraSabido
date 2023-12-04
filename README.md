@@ -5,8 +5,11 @@ No episódio 133 de Pica-Pau (Esperto contra sabido) nós vemos o protagonista f
 Será que ao repartir todos os alimentos podemos concluir que algo está errado?
 Isso é o que tentaremos descobrir aqui! =)
 
+<div align="center">
+  
 <img src="/img/UM_PRA_VC_UM_PRA_MIM_DOIS_PRA_VC_DOIS_PRA_MIM_PICA_PAU.gif">
 
+</div>
 ## :books: Objetivo do Programa
 * <b>Finalidade</b>: Fazer a distribuição de comidas entre Raposinha e seu amigo Pica-Pau.
 
