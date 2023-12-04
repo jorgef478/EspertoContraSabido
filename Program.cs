@@ -37,35 +37,44 @@ int paraVoce = 0, paraMim = 0;
 
 while (restantes > 0)
 {
+   
     Console.ForegroundColor = ConsoleColor.DarkGreen;
     paraVoce++;
     picaPau += 1;
     restantes -= 1;
 
     Console.Write($"{picaPau} para você. ");
-
+ 
     paraMim = 0;
     while (restantes > 0 && paraMim < paraVoce)
     {
-        Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
         paraMim++;
         raposinha += 1;
         restantes -= 1;
 
         Console.Write($"{paraMim}");
 
-        if (restantes > 0 && paraMim < paraVoce)
+        if (restantes > 0 && paraMim < paraVoce )
         {
             Console.Write(",");
+
         }
 
         Console.Write(" ");
     }
 
-    if (paraMim > 0)
+    if (paraMim > 0 || paraMim < paraVoce)
     {
-        Console.WriteLine("para mim.");
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        paraMim++;
+        raposinha += 1;
+        restantes -= 1;
+    
+        Console.WriteLine($"{paraMim} para mim.");
+        
     }
+
 }
 
 if (paraMim == 0)
