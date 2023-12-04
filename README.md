@@ -4,6 +4,7 @@
 No episódio 133 de Pica-Pau (Esperto contra sabido) nós vemos o protagonista fazer uma divisão de comida com seu amigo Raposinha. O que Pica-Pau não esperava era a forma que seria feita essa divisão.
 Será que ao repartir todos os alimentos podemos concluir que algo está errado?
 Isso é o que tentaremos descobrir aqui! =)
+<https://media.tenor.com/yhkAn_bPEBEAAAAd/raposa-ladra.gif>
 
 ## :books: Objetivo do Programa
 * <b>Finalidade</b>: Fazer a distribuição de comidas entre Raposinha e seu amigo Pica-Pau.
